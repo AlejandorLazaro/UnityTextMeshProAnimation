@@ -4,6 +4,9 @@
 
 Simple one-file addition to add animation support to Unity's TextMeshPro game objects!
 
+**NOTE:**
+Needs to switch to using an update loop for smoother animations! *Highly* suggest using Luca3317's [TMPEffects](https://github.com/Luca3317/TMPEffects) instead, as it has excellent documentation and is fully featured!
+
 ## Install
 
 Simply add the **TextAnimation.cs** file to your Unity script folder!
